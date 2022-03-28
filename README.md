@@ -13,5 +13,5 @@ Link:
 
 # Mobile
 
-<img align="left" src="https://github.com/nikhilsurfingaus/aesthy-clock-display/blob/master/src/Images/Github/Mob1.png" width="35%" height= "650">
-<img align="right" src="https://github.com/nikhilsurfingaus/aesthy-clock-display/blob/master/src/Images/Github/Mob2.png" width="35%" height= "650"> 
+<img align="left" src="https://github.com/nikhilsurfingaus/aesthy-clock-display/blob/master/src/Images/Github/Mob1.png" width="45%" height= "650">
+<img align="right" src="https://github.com/nikhilsurfingaus/aesthy-clock-display/blob/master/src/Images/Github/Mob2.png" width="45%" height= "650"> 
