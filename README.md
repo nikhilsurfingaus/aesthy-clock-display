@@ -1,7 +1,7 @@
 # Aesthy Time Display Web App
 Responsive Aesthetic Time Display React App for Desktop and Mobile
 
-Link: https://aesthytimedisplay.netlify.app/
+Link To Site: https://aesthytimedisplay.netlify.app/
 
 # Desktop <br/>
 
